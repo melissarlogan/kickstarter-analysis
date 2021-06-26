@@ -52,8 +52,9 @@ Challenges
 
 #### Outcomes based on Launch Date Results
 
-1. We can conclude that the most promising time to launch a campaign would be when the gap between the lines is greatest (May and June) as this is showing that while there are more total campaigns launched, more often these campaigns launched in this period are deemed successful.
-2. We can also conclude that December is the worst month to launch a campaign as this is when campaigns launched that were successful are that their lowest
+We can conclude that the most promising time to launch a campaign would be when the gap between the lines is greatest (May and June) as this is showing that while there are more total campaigns launched, more often these campaigns launched in this period are deemed successful.
+
+We can also conclude that December is the worst month to launch a campaign as this is when campaigns launched that were successful are that their lowest
 
 #### Outcomes based on Goals Results 
 	
@@ -71,8 +72,5 @@ The data above also does not bring into consideration the length of time a campa
 As mentioned in [the analysis of outcomes based on goals section](#analysis-of-outcomes-based-on-goals) we are missing a discussion on how many data points have been collected for various ranges. It is important to note population size when analyzing data as a 50%/50% split when there are only 2 data points compared to 500 data points can indicate a stronger trend and provide more confidence in the results.
 
 
-
-
-- What are some other possible tables and/or graphs that we could create?
-
+#### Additional Graphs
 Other tables we could create could be a table showing time trends of how funding goals and success rates have changed over the years, how the % funded trend lines move over each month of the year, and how the amount of pledged money varies over length of the campaign.
