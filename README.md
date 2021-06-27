@@ -66,10 +66,10 @@ The data is focused on campaigns deemed successful or failures. The above analys
 
 The data above also does not bring into consideration the length of time a campaign was launched. It would be beneficial to see if campaigns that are live longer are able to raise more funding or if shorter campaigns are able to push urgency in getting their goals met.
 
-As mentioned in [the analysis of outcomes based on goal section](#analysis-of-outcomes-based-on-goals) we are missing an analysis on how many data points have been collected for various goal ranges in speficiation to theatre plays. It is important to note population size when analyzing data as a 50%/50% split when there are only 2 data points compared to 500 data points can indicate a stronger trend and provide more confidence in the results.
+As mentioned in [the analysis of outcomes based on goal section](#analysis-of-outcomes-based-on-goals) we are missing an analysis on how many data points have been collected for various goal ranges in specification to theatre plays. It is important to note population size when analyzing data as a 50%/50% split when there are only 2 data points compared to 500 data points can indicate a stronger trend and provide more confidence in the results.
 
 #### Additional Graphs
 Other tables we could create could be:
 1. A line chart showing time trends of how funding goals and success rates have changed over the years. What have plays launched more recently experienced?
-2. How the % funded averages move over the months of the year displayed in a barchart. Are campaings more likley to hit 90% funded in a particular month?
+2. How the % funded averages move over the months of the year displayed in a bar chart. Are campaigns more likely to hit 90% funded in a particular month?
 3. A line chart on how the amount of pledged money varies over length of the campaign. If a campaign is live longer do they typically raise more money?
