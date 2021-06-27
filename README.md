@@ -66,7 +66,7 @@ The data is focused on campaigns deemed successful or failures. The above analys
 
 The data above also does not bring into consideration the length of time a campaign was launched. It would be beneficial to see if campaigns that are live longer are able to raise more funding or if shorter campaigns are able to push urgency in getting their goals met.
 
-As mentioned in [the analysis of outcomes based on goal section](#analysis-of-outcomes-based-on-goals) we are missing a discussion on how many data points have been collected for various goal ranges in speficiation to theatre plays. It is important to note population size when analyzing data as a 50%/50% split when there are only 2 data points compared to 500 data points can indicate a stronger trend and provide more confidence in the results.
+As mentioned in [the analysis of outcomes based on goal section](#analysis-of-outcomes-based-on-goals) we are missing an analysis on how many data points have been collected for various goal ranges in speficiation to theatre plays. It is important to note population size when analyzing data as a 50%/50% split when there are only 2 data points compared to 500 data points can indicate a stronger trend and provide more confidence in the results.
 
 #### Additional Graphs
 Other tables we could create could be:
