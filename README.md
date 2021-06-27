@@ -22,7 +22,7 @@ Image 1- Theatre Outcomes Based on Launch Date also shows an increase in campaig
 #### Image 1- Theatre Outcomes Based on Launch Date 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85718354/123523400-415abe00-d691-11eb-883c-e36438a2b0a3.png)
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goal
 
 Image 2- Outcomes Based on Goal is showing the fundraising goal and what percentage of campaigns with those goals were considered successful or failed as there were 0 cancelled plays.
 
