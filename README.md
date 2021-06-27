@@ -55,7 +55,7 @@ We can also conclude that December is the worst month to launch a campaign as th
 
 #### Outcomes based on Goals Results 
 	
-What we can conclude from the Outcomes based on Goals that as campaigns increase their fundraising goals they are less likely to achieve those goals. The most successful range for a campaign is when the fundraising goals are  between less than 1,000 and 4,999.
+What we can conclude from the Outcomes based on Goals analysis that as campaigns increase their fundraising goals they are less likely to achieve those goals. The most successful range for a campaign is when the fundraising goals are  between less than 1,000 and 4,999.
 
 
 ### Dataset Limitations
