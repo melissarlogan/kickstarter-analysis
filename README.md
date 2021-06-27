@@ -53,9 +53,9 @@ We can conclude that the most promising time to launch a campaign would be when 
 
 We can also conclude that December is the worst month to launch a campaign as this is when campaigns launched that were successful are at their lowest.
 
-#### Outcomes based on Goals Results 
+#### Outcomes based on Goal Results 
 	
-What we can conclude from the Outcomes based on Goals analysis that as campaigns increase their fundraising goals they are less likely to achieve those goals. The most successful range for a campaign is when the fundraising goals are  between less than 1,000 and 4,999.
+What we can conclude from the Outcomes based on Goal analysis that as campaigns increase their fundraising goals they are less likely to achieve those goals. The most successful range for a campaign is when the fundraising goals are  between less than 1,000 and 4,999.
 
 
 ### Dataset Limitations
