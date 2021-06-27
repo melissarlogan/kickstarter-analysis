@@ -51,7 +51,7 @@ Some challenges that were encountered when creating this data set are listed bel
 
 We can conclude that the most promising time to launch a campaign would be when the gap between the lines is greatest (May and June) as this is showing that while there are more total campaigns launched, more often these campaigns launched in this period are deemed successful.
 
-We can also conclude that December is the worst month to launch a campaign as this is when campaigns launched that were successful are that their lowest.
+We can also conclude that December is the worst month to launch a campaign as this is when campaigns launched that were successful are at their lowest.
 
 #### Outcomes based on Goals Results 
 	
