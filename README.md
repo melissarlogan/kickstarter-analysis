@@ -70,6 +70,6 @@ As mentioned in [the analysis of outcomes based on goal section](#analysis-of-ou
 
 #### Additional Graphs
 Other tables we could create could be:
-1. A line chart showing time trends of how funding goals and success rates have changed over the years. What have plays launched more recently experineced?
-2. How the % funded averages move over the months of the year displayed in a barchart, are campaings more likley to hit 90% funded in a particular month?
+1. A line chart showing time trends of how funding goals and success rates have changed over the years. What have plays launched more recently experienced?
+2. How the % funded averages move over the months of the year displayed in a barchart. Are campaings more likley to hit 90% funded in a particular month?
 3. A line chart on how the amount of pledged money varies over length of the campaign. If a campaign is live longer do they typically raise more money?
