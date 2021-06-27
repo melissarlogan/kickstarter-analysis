@@ -38,8 +38,11 @@ It is noted that the fail rate decreases at the 35,000-39,999 and 40,000- 44,999
 Some challenges that were encountered when creating this data set are listed below along with how they were overcome:
 
 - Ensuring that the  data is being pulled correctly from the master list into the summary lists to create the graphs where multiple pulling formulas needed to be written are not moving when dragging the formula across.
+
    - This issue was overcome by once a formula was written, using the lock function in the formula to make the references remain static, so when dragging formulas to cover a wider array of information the references did not change.
+
 - When creating formulas that are pulling the same information except changing the reference point from “successful” to “failed” there is the risk when doing it manually that some formulas get missed and an incorrect reference is pulled
+
     - This was overcome by using the find+replace function in excel and highlighting the changing range. This allowed the references to change in bulk while also ensuring each formula reference was correctly changed . 
 
 ## Results
